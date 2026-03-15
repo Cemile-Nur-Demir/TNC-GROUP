@@ -8,7 +8,6 @@ export default function Home() {
   const [editIndex, setEditIndex] = useState<number | null>(null);
 
   useEffect(() => {
-      localStorage.clear(); // sadece test için!
 
 
     const storedTasks = JSON.parse(localStorage.getItem("tasks_v1") || "[]");
