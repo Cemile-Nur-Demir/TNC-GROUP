@@ -6,6 +6,6 @@ Ekran Görüntüleri Linki
 https://github.com/Cemile-Nur-Demir/TNC-GROUP/tree/main/public/screenshots
 
 
-NETLİFY YAYIN LİNKİ
+CLOUDFLARE WEB YAYIN LİNKİ
 
-https://todolistcemilenurdemir.netlify.app/
+https://deneme-list.cemile-nur-demir100.workers.dev/
